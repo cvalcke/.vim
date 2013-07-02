@@ -17,23 +17,14 @@ set backspace=2
 set backup
 set backupdir=~/.vim/vimfiles/backup
 set clipboard+=unnamed
-set confirm
 set cmdheight=2
 set cpoptions-=<
 set directory=~/.vim/vimfiles/temp
-set expandtab
 set fillchars=vert:\ ,stl:\ ,stlnc:\
 set formatoptions=tcroqn
-"set guifont=Terminus\ 8
-set guioptions-=T
-set hidden
-set ignorecase
 set iskeyword+=_,$,@,%,#,-
-set laststatus=2
 set lazyredraw
 set linespace=0
-"set listchars=eol:¬
-"set list
 set makeef=error.err
 set mouse=a
 set mousemodel=popup    " autorise le menu popup avec la souris
@@ -41,16 +32,11 @@ set nospell
 set number
 set pastetoggle=<F11>
 set ruler
-set scrolloff=5
-set scrolljump=1
 set showmatch
 set statusline=%F%m%r%h%w%10{getfsize(expand('%'))}o\ \ \ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%l,%v][%p%%]\ %{strftime(\"%d/%m/%y\ -\ %H:%M\")}
-set shiftwidth=4
 set t_Co=256
-set tabstop=4                        " tabulation sur 4 caractères
 set tags+=gems.tags
 set wildcharm=<C-Z>
-set wildmenu
 set wildignore+=*.bmp,*.gif,*.jpg,*.jpeg,*.JPG,*.png,*.GIF,*.bmp,*.BMP,*.JPEG,*.doc,*.xls,*.ppt,*.DOC,*.XLS,*.PPT,tmp/*,*.pdf,*.PDF,public/*,*.ico
 
 "map <F9> :emenu <C-Z>
