@@ -30,7 +30,7 @@ set mouse=a
 set mousemodel=popup    " autorise le menu popup avec la souris
 set nospell
 set number
-set pastetoggle=<F11>
+set pastetoggle=<F10>
 set ruler
 set showmatch
 set statusline=%F%m%r%h%w%10{getfsize(expand('%'))}o\ \ \ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%l,%v][%p%%]\ %{strftime(\"%d/%m/%y\ -\ %H:%M\")}
