@@ -1,4 +1,4 @@
-set relativenumber             " show line numbers relative to cursor
+" set relativenumber             " show line numbers relative to cursor
 set novisualbell               " don't flash the screen
 set laststatus=2               " always show status line
 set wildmenu                   " tab-completion menu for command mode
