@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile *.html  set ft=htmldjango
+autocmd BufRead,BufNewFile *.html  set ft=html
