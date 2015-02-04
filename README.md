@@ -1,4 +1,4 @@
-# akarzim.vim configuration (config branch) based on sunaku.vim
+# cvalcke.vim configuration (config branch) based on akarzim.vim
 
 Unlike most Vim configurations you find on the Internet, this one is modular:
 *not* a single giant `vimrc` file!  May it help you journey the lands of Vim.
@@ -53,7 +53,7 @@ Backup your configuration:
 
 Install this configuration:
 
-    git clone git://github.com/akarzim/.vim.git ~/.vim
+    git clone git://github.com/cvalcke/.vim.git ~/.vim
     ln -s ~/.vim/config.vim ~/.vimrc
 
 Select a Git branch to use:
