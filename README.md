@@ -38,9 +38,16 @@ Configuration
 
 * [Vim](http://www.vim.org/) 7.3 or newer
 
-* [Git](http://git-scm.com/) 1.5 or newer
+* [Git](http://git-scm.colorom/) 1.5 or newer
 
 * [POSIX sh](http://pubs.opengroup.org/onlinepubs/009695399/utilities/sh.html)ell
+
+* silversearcher-ag
+
+* fonts patched for powerline :
+   Powerline : https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation
+   Ubuntu    : https://github.com/scotu/ubuntu-mono-powerline
+   Other     : https://github.com/powerline/fonts
 
 [Unbundle]: https://github.com/sunaku/vim-unbundle
 
